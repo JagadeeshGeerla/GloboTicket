@@ -40,4 +40,4 @@ namespace GloboTicket.TicketManagement.Application.Features.Events.Queries.GetEv
         }
     }
 }
-}
+
